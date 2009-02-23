@@ -15,5 +15,19 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        private void render_Click(object sender, EventArgs e)
+        {
+            Bitmap bm = new Bitmap();
+            Graphics gr = new Graphics();
+            gr.DrawEllipse();
+            
+            
+        }
+
+        private void close_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
