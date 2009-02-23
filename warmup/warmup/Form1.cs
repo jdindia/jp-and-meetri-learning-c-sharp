@@ -18,9 +18,7 @@ namespace WindowsFormsApplication1
 
         private void render_Click(object sender, EventArgs e)
         {
-            System.Drawing.Graphics g = e.Graphics;
-           
-            g.DrawEllipse(System.Drawing.Pens.Red, 125, 150, 2, 2);
+            
             
         }
 
