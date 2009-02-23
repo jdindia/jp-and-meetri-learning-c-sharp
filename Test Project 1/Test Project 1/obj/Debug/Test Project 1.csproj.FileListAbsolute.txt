@@ -1,0 +1,5 @@
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\Test Project 1\Test Project 1\bin\Debug\Test Project 1.exe
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\Test Project 1\Test Project 1\bin\Debug\Test Project 1.pdb
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\Test Project 1\Test Project 1\obj\Debug\ResolveAssemblyReference.cache
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\Test Project 1\Test Project 1\obj\Debug\Test Project 1.exe
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\Test Project 1\Test Project 1\obj\Debug\Test Project 1.pdb

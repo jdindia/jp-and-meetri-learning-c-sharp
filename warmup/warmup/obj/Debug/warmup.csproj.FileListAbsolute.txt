@@ -1,0 +1,8 @@
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\warmup\warmup\bin\Debug\warmup.exe
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\warmup\warmup\bin\Debug\warmup.pdb
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\warmup\warmup\obj\Debug\ResolveAssemblyReference.cache
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\warmup\warmup\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\warmup\warmup\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\warmup\warmup\obj\Debug\warmup.csproj.GenerateResource.Cache
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\warmup\warmup\obj\Debug\warmup.exe
+E:\WORK\c#\My Projects\jp-and-meetri-learning-c-sharp\warmup\warmup\obj\Debug\warmup.pdb
